@@ -1,2 +1,3 @@
-# dart-tutorial
-PDF tutorial slides and material for the Data Assimilation Research Testbed (DART)
+# DART Tutorial Slides
+
+This repository hosts the PDF versions of tutorial slides for the **Data Assimilation Research Testbed (DART)**.
